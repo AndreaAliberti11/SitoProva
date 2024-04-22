@@ -3,3 +3,10 @@
 body {
     background-color: red;
 }
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
